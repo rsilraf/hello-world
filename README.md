@@ -1,2 +1,9 @@
 # hello-world
-hello world git tutorial
+
+**this is code:**
+`
+echo "hello world";
+`
+
+
+
